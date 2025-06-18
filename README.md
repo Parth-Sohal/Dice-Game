@@ -10,7 +10,7 @@ A fun and interactive dice game built using **HTML, CSS, and JavaScript**, with 
 - 🎲 Random dice roll from 1 to 6
 - 💾 Score tracking for each player
 - 😞 Lose your turn if you roll a 1
-- 🏆 First to reach 20 points wins
+- 🏆 First to reach 50 points wins
 - 🔊 Sound effects for roll, hold, and win
 
 ---
