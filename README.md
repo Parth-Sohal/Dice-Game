@@ -18,7 +18,7 @@ A fun and interactive dice game built using **HTML, CSS, and JavaScript**, with 
 
 A fun and interactive dice game built using HTML, CSS, and JavaScript — now with sound effects!
 
-▶️ **[Play the Game Live](http://127.0.0.1:8080/DOM%20PROJECT/project-3/)**
+▶️ **[Play the Game Live](https://parth-sohal.github.io/Dice-Game/)**
 
 ---
 
